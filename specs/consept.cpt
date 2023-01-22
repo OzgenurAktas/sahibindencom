@@ -1,0 +1,12 @@
+
+This is a concept file with following syntax for each concept.
+# City <city> district <district> town1 <town1> town2 <town2> min <min> max <max> search
+* Select <city> in city Dropdown
+* Select <district> in district Dropdown
+* Select <town1> in area Dropdown
+* Select <town2> in area Dropdown
+* Click enter the minimum <min> and maximum <max> rental amount
+* Click on the number of rooms you want
+* Fetch the data in the property I selected
+* Sort from lowest to highest
+* is amount correct <min> <max>
